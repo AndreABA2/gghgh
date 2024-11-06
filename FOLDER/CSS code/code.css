@@ -58,7 +58,7 @@
   align-items: center;
 }
 .q2 {
-  width: 95%;
+  width: 75%;
   margin: 0 auto;
   display: flex;
   flex-direction: row;
@@ -95,7 +95,7 @@
   opacity: 1;
 }
 .w1 {
-  width: 23vw;
+  width: 26vw;
 }
 /*ZXC1*/
 .backgr3 {
@@ -183,6 +183,95 @@
 /*конец ZXC1*/
 /*ZXC2*/
 .backgr4 {
-  width: auto;
-  height: fit-content;
+  width: 100%;
+  background-image: url("bg5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: 500;
+  font-family: "Geologica", sans-serif;
+  color: white;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+}
+.qwer {
+  width: 80%;
+  border: solid gray 0.3vw;
+  padding: 1vw;
+  padding-top: 0.3vw;
+  margin: 2vw auto;
+  display: flex;
+  background-image: url("background78.png");
+}
+.qwer p {
+  font-size: 1vw;
+  margin-top: 0.7vw;
+}
+.txt {
+  width: 100%;
+}
+.pic {
+  width: fit-content;
+  text-align: center;
+  margin-left: 1vw;
+  margin-top: 0.7vw;
+}
+.pic h1 {
+  font-size: 2.5vw;
+}
+.pic img {
+  width: 21vw;
+  border: solid gray 0.3vw;
+}
+.qqq {
+  width: 35%;
+  border: solid gray 0.3vw;
+  font-size: 3vw;
+  text-align: center;
+  margin: 3vw auto;
+  padding: 0.5vw;
+  background-image: url("background78.png");
+}
+#pn {
+  font-size: 2.3vw;
+}
+#per {
+  font-size: 1.7vw;
+}
+#txt1 {
+  display: block;
+  padding-bottom: 0;
+}
+#pic1 {
+  margin: 1vw auto;
+  width: fit-content;
+}
+#shema {
+  width: 52vw;
+}
+#pic2 {
+  width: fit-content;
+}
+#fotot3485 {
+  width: 20vw;
+}
+#f34 {
+  width: 30vw;
+}
+#zis {
+  width: 32vw;
+}
+#dt {
+  width: 22vw;
+}
+#dshk {
+  width: 20vw;
+}
+#v2 {
+  width: 22vw;
+}
+#kristi {
+  font-size: 2.5vw;
+}
+#sh {
+  font-size: 1.5vw;
 }
